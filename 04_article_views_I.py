@@ -16,7 +16,6 @@ Write a solution to find all the authors that viewed at least one of their own a
 
 Return the result table sorted by id in ascending order.
 
-The result format is in the following example.
 """
 
 import pandas as pd
