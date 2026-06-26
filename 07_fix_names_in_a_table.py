@@ -13,7 +13,6 @@ Write a solution to fix the names so that only the first character is uppercase 
 
 Return the result table ordered by user_id.
 
-The result format is in the following example.
 """
 import pandas as pd
 

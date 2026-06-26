@@ -14,7 +14,6 @@ Write a solution to find the IDs of the invalid tweets. The tweet is invalid if 
 
 Return the result table in any order.
 
-The result format is in the following example.
 """
 import pandas as pd
 
